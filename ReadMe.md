@@ -10,3 +10,7 @@ Designed to use in scripts, auto backups at startup etc.
 `LazyBackupper.exe "D:\PathToBackup"`
 
 This will create a timestamped zip file in the parent directory.
+
+## Releases
+
+- 0.1.0: MVP
